@@ -30,7 +30,7 @@ notes: 'https://insights.enki.com/#/contrib/55963a353fa08f3200a41135'
 
 ---
 
-# Avoid using `static` variables
+# Try to avoid using `static` variables
 
 ---
 ## Content
